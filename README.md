@@ -21,11 +21,32 @@
 #### For windows open cmd there or a powershell window and input this command.
 
 ```
-sss
+java -jar duplirandom.jar
 ```
-#### For Linux open terminal.
+#### For Linux open terminal and now you have two options.
 
+1. run this command by using the java -jar command.
+```
+java -jar duplirandom.jar
+```
+2. run this command by doing ./duplirandom.jar
+
+```
+sudo apt-get install binfmt-support
+```
+then
+```
+chmod a+rx duplirandom.jar
+```
+lastly, to start with ./
+```
+./duplirandom.jar
+```
 #### For mac do the same thing you would on linux.
 
-#### For all other OS open some kind of terminal there.
+#### For all other OS open some kind of terminal there then run this command.
+
+```
+java -jar duplirandom.jar
+```
 
