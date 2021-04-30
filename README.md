@@ -25,11 +25,11 @@ java -jar duplirandom.jar
 ```
 #### For Linux open terminal and now you have two options.
 
-1. run this command by using the java -jar command.
+Option 1, run this command by using the java -jar command.
 ```
 java -jar duplirandom.jar
 ```
-2. run this command by doing ./duplirandom.jar
+Option 2, run this command by doing ./duplirandom.jar
 
 ```
 sudo apt-get install binfmt-support
