@@ -15,6 +15,8 @@
 - You can also use this if you need it for randmized words that you need to make your kids identify.
 - Other ppurpsses are also usable.
 
+*Note that until next release do not put commas in the word boxes exept for when it asks you what to seprate it with.
+
 #### Now lets come to the main point how do we run this?
 
 #### To run this on whatever OS you are on install a java jdk or jre that is version 15 or higher. Then go into the directory where you downloaded the latest release from the release tab.
