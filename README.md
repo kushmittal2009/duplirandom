@@ -50,3 +50,7 @@ lastly, to start with ./
 java -jar duplirandom.jar
 ```
 
+### Since this project is licensed with GNU 3, you can easily contribute to my project. To do so please open a pull request and I will accept it. 
+### If you want to see other features please open and issue with what you want me to add.
+
+## This software is made by and licensed to Kush Mittal.
