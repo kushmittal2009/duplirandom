@@ -18,8 +18,11 @@
 #### Now lets come to the main point how do we run this?
 
 #### To run this on whatever OS you are on install a java jdk or jre that is version 15 or higher. Then go into the directory where you downloaded the latest release from the release tab.
-#### For windows open cmd there or a powershell window.
+#### For windows open cmd there or a powershell window and input this command.
 
+```
+sss
+```
 #### For Linux open terminal.
 
 #### For mac do the same thing you would on linux.
