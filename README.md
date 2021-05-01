@@ -1,3 +1,9 @@
+<foreignObject>
+h1 {
+  color: blue;
+}
+
+</foreignObject>
 <h2> The DupliRandom java software</h2>
 
 ### The duplicRandom is kind of what it sounds like. It is a software where you enter some words that you want to duplicate and randomize their orders.
