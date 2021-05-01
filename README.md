@@ -1,5 +1,5 @@
 ## The DupliRandom java software
-
+ ´´´´Deprecated´´´´
 ### The duplicRandom is kind of what it sounds like. It is a software where you enter some words that you want to duplicate and randomize their orders.
 
 #### What do you do in it?
