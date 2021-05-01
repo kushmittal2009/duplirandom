@@ -1,9 +1,10 @@
 package com.kushm.Word.src;
-
+import java.awt.datatransfer.StringSelection;
+import java.awt.Toolkit;
+import java.awt.datatransfer.Clipboard;
 import java.util.*;
 
 public  class WordRandomdupli {
-	Scanner scanner = new Scanner(System.in);
 public static void ifi(){
 	Scanner scanner = new Scanner(System.in);
 	ArrayList<String> wordlist = new ArrayList<String>();
@@ -27,8 +28,6 @@ wordlist.add(scanneradd.nextLine());
 	
 System.out.println("How many words do you want?");
 words = scanner.nextInt();
-scanner.close();
-scanneradd.close();
 ArrayList<String> list = new ArrayList<String>();
 Object[] wordlists = wordlist.toArray();
 for(int i=1;i<words;i++) {
@@ -40,7 +39,16 @@ list.add((String) wordlists[z]);
 String word = list.toString();
 word = word.substring(1, word.length() -1);
 word = word.replace(',', c);
+StringSelection stringselection= new StringSelection(word);
+Clipboard clipboard = Toolkit.getDefaultToolkit().getSystemClipboard();
+
+
+scanner.close();
+scanneradd.close();
+clipboard.setContents(stringselection, null);
+
 System.out.println(word);
+
 }
 
 
