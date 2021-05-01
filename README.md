@@ -55,6 +55,7 @@ java -jar duplirandom.jar
 
 ### Screen Shots
 
+![alt text](https://github.com/kushmittal2009/duplirandom/raw/main/Demo.png)
 
 ### Since this project is licensed with GNU 3, you can easily contribute to my project. To do so please open a pull request and I will accept it. 
 ### If you want to see other features please open and issue with what you want me to add.
