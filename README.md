@@ -26,7 +26,7 @@
 java -jar duplirandom.jar
 ```
 
-#### For Linux open terminal and now you have three options.
+#### For Linux open terminal and now you have three options. For option 1 do not open terminal.
 
 Option 1, Just download the duplirandom.sh file and the duplirandom.jar file from releases. Then just double click on the sh file.
 
