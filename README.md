@@ -20,7 +20,7 @@
 #### Now lets come to the main point how do we run this?
 
 #### To run this on whatever OS you are on install a java jdk or jre that is version 15 or higher. Then go into the directory where you downloaded the latest release from the release tab.
-#### For download the two files duplirandom.bat and duplirandom.jar . Then double click on the batch file. It will run the jar file for you. If you do not download the jar file and you download only the bat file it will automatically download it for you.Or you can just download the jar file and run the command in cmd or powershell.
+#### The latest build comes with an exe so thats the easiest for windows 10. But for advanced people you can also do option 2 or 3. For download the two files duplirandom.bat and duplirandom.jar . Then double click on the batch file. It will run the jar file for you. If you do not download the jar file and you download only the bat file it will automatically download it for you.Or you can just download the jar file and run the command in cmd or powershell.
 
 ```
 java -jar duplirandom.jar
